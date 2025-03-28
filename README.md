@@ -1,4 +1,5 @@
 <h1 align="center">Jogo do Número Secreto</h1>
+![Logo Número Secreto](https://github.com/user-attachments/assets/3d850948-a657-406b-90fc-4f8d54b4aca9)
 
 <h2>Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura, especificamente no .</p>
