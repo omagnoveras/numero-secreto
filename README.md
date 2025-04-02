@@ -1,8 +1,8 @@
-<h1 align="center">Jogo do Número Secreto</h1>
-![Logo Número Secreto](https://github.com/user-attachments/assets/3d850948-a657-406b-90fc-4f8d54b4aca9)
+
+<img alt="Título" width="200" height="200" src="https://i.imgur.com/tEAA9Ot.png" style="display: block; margin: auto;">
 
 <h2>Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura, especificamente no .</p>
+<p>Projeto utilizado nos cursos da Alura no curso de Git e GitHub para teste.</p>
 
 ## Tecnologias
 <div>
@@ -11,4 +11,9 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-// Código omitido. 
+# Autores
+<a href="https://github.com/omagnoveras">
+  <img src="https://i.imgur.com/fMOHPop.jpeg" loading="lazy" width="150">
+  <br>
+  <sub>Magno Veras</sub>
+</a>
